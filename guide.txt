@@ -12,10 +12,6 @@ Mac:
 
 1.2 Install at: https://desktop.github.com/
 
-Linux:
-
-Not supported.
-
 2. Go to GitHub.com
 
 3. Click sign up, and make your account.
