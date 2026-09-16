@@ -1,0 +1,25 @@
+Windows:
+
+1.1 Have around 400-500mb of storage.
+
+1.2 Have a windows 10 64-bit or later.
+
+1.3 install at: https://desktop.github.com/?ref_product=desktop&ref_type=engagement&ref_style=button
+
+Mac:
+
+1.1 Install on MacOS 12.0
+
+1.2 Install at: https://desktop.github.com/
+
+Linux:
+
+Not supported.
+
+2. Go to GitHub.com
+
+3. Click sign up, and make your account.
+
+4. Go to the Desktop App GitHub, and sign in in the app
+
+5. If failed installation first look up for any common errors before contacting GitHub Support, Or contact: Andrew.Diggins@Tafensw.edu.au for ease of response.
