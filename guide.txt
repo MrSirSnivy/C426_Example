@@ -28,4 +28,4 @@ Not supported unless you use the 3rd party app.
 
 4. Go to the Desktop App GitHub, and sign in in the app
 
-5. If failed installation first look up for any common errors before contacting GitHub Support, Or contact: Andrew.Diggins@Tafensw.edu.au for ease of response.
+5. If failed installation first look up for any common errors before contacting GitHub Support, Or contact: Andrew.Diggins@Tafensw.edu.au for ease of reply.
