@@ -10,6 +10,10 @@ Mac:
 
 1.1 Install on MacOS 12.0
 
+Uwubutu:
+
+Not supported unless you use the 3rd party app.
+
 1.2 Install at: https://desktop.github.com/
 
 2. Go to GitHub.com
